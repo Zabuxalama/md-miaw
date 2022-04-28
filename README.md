@@ -22,6 +22,9 @@
 ---
 
 # NahBotz MD
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/z4bux/md-miaw)
+
 ## Information
 > nahBotz whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
