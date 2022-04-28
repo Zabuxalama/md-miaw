@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://telegra.ph/file/6181b1e4682afedcf00ea.jpg" alt="Hyzer-MD" width="250"/>
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
 
 </p>
 <p align="center">
